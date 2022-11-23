@@ -6,8 +6,8 @@ The Automatic Soap Dispenser is controlled by an Arduino MKR1000. The Arduino is
 
 ## Materials
 
-|             |             |
-| ----------- | ----------- |
+|             |
+| ----------- | 
 | Arduino MKR1000 x1   
 | SG90 Micro Servo Motor x2  
 | HC-SR04 Ultrasonic Sensor x1      
