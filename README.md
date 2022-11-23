@@ -2,7 +2,9 @@
 
 The Automatic Soap Dispenser is controlled by an Arduino MKR1000. The Arduino is triggered by a HC-SR04 Ultrasonic sensor that is activated every 5 seconds. When the sensor detects a hand under the soap pump, a SG90 stepper motor is activated and pushes the pump 10 times to dispense soap (10 doses). When it's done, another SG90 motor is activated and used as a countdown to 20 seconds. The Arduino is able to connect to a network (Wi-fi Web Server) and print information like the live reading of the ultrasonic sensor, the last time someone used the soap dispenser, if the soap dispenser is used right now and in case the soap dispenser is used right now how much time is left to reach 20 seconds. The design is interchangeable with most common soap dispensers found in homes and it was made with MDF. 
 
-![](https://i.imgur.com/qCzJk3G.jpg)
+ Front | Back  
+:----:|:----:
+![](https://i.imgur.com/qCzJk3G.jpg) | ![](https://i.imgur.com/Eq7B2ko.jpg)
 
 | Components   | Tools       | Software   | 
 | ----------- | ----------- | ----------- |
