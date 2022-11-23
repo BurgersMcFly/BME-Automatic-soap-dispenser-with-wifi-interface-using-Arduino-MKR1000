@@ -1,5 +1,5 @@
 //  AutomaticSoapDispenser, Automatic Soap Dispenser made with Arduino MKR1000
-//  Copyright (C) 2022 BurgersMcFly and contributors
+//  Copyright (C) 2022 BurgersMcFly and Chris Manglaris
 
 //  This program is free software: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by
