@@ -1,4 +1,4 @@
-Made in collaboration with [Chris Manglaris](https://github.com/chrismaglaris)
+Made in collaboration with [Chris Manglaris](https://github.com/chrismaglaris).
 
 # Automatic soap dispenser with wifi interface using Arduino MKR1000
 
