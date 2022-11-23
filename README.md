@@ -4,7 +4,7 @@ The Automatic Soap Dispenser is controlled by an Arduino MKR1000. The Arduino is
 
  Front | Back  
 :----:|:----:
-![](https://i.imgur.com/qCzJk3G.jpg) | ![](https://i.imgur.com/Eq7B2ko.jpg)
+![](https://i.imgur.com/qCzJk3G.jpg) | <img src="https://i.imgur.com/Eq7B2ko.jpg" width="42%" height="42%"/>
 
 | Components   | Tools       | Software   | 
 | ----------- | ----------- | ----------- |
