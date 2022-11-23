@@ -4,18 +4,20 @@ The Automatic Soap Dispenser is controlled by an Arduino MKR1000. The Arduino is
 
 ![](https://i.imgur.com/qCzJk3G.jpg)
 
-| Materials   |
-| ----------- | 
-| Arduino MKR1000 x1   
-| SG90 Micro Servo Motor x2  
-| HC-SR04 Ultrasonic Sensor x1      
-| Jumper Wires (M/M, F/F, M/F) 
-| Screws      
-| Fishing Line 0.50mm  
-| Soap Dispenser      
-| MDF Board Sheets  
-| Cardboard Box x1      
-| SG90 Micro Servo Motor x2  
+## Materials
+
+| Materials   | Tools       | Software   | 
+| ----------- | ----------- | ----------- |
+| Arduino MKR1000 x1        | Hand Saw | Arduino IDE
+| SG90 Micro Servo Motor x2 | Sandpaper
+| HC-SR04 Ultrasonic Sensor x1 | Wood Glue   
+| Jumper Wires (M/M, F/F, M/F) |
+| Screws      |
+| Fishing Line 0.50mm  | 
+| Soap Dispenser      |
+| MDF Board Sheets  |
+| Cardboard Box x1   |   
+| SG90 Micro Servo Motor x2  |  
 
 ## Circuit
 
